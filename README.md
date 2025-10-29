@@ -52,8 +52,15 @@ The dataset used for this project contains details about Netflix titles, includi
 ## 🖼️ Dashboard Preview
 
 <p align="center">
-  <img src="https://github.com/Aarsh0315/Netflix-Content-Analysis-Dashboard-PowerBI/blob/main/netflix_dashboard.png?raw=true" width="750" alt="Netflix Dashboard Power BI">
+  <img src="https://github.com/Aarsh0315/Netflix-Content-Analysis-Dashboard-PowerBI/blob/main/netflix1.png?raw=true" width="750" alt="Netflix Dashboard Overview">
 </p>
+
+<p align="center">
+  <img src="https://github.com/Aarsh0315/Netflix-Content-Analysis-Dashboard-PowerBI/blob/main/netflix2.png?raw=true" width="750" alt="Netflix Dashboard Map View">
+</p>
+
+---
+
 
 > *(Replace the image link above once you upload your dashboard screenshot to your repository.)*
 
